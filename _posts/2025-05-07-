@@ -1,0 +1,8 @@
+Word2Vec based on the Skip-Gram model in Mikolov et al 2013.
+
+The advantage of Skip-Gram is its fast and gives accurate repreentation of word vectors, instead of relying on distances and angles. 
+
+Mikolov, Sutskever et al 2013 paper aims to speed up hirerachical softmax from Mikolov et al 2013, and plot the relationship between words. 
+
+Pennington, Socher, Manning, 2014 paper aims to improve the "localization" statistics in Word2Cev by utilizing co-ocurance matrix, better at capturing global semantic relationship
+
